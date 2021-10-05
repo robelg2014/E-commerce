@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": " Air Jordan Mid 1s",
+    "price": 120.00,
+    "description": "The Air Jordan 1 Mid Shoe is inspired by the first AJ1, offering fans of Jordan retros a chance to follow in the footsteps of greatness. ",
+    "category": "Jordans",
+    "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/83d96724-18eb-4c45-9807-cf579e88af24/air-jordan-1-mid-shoes-Z4WQkS.png",
+    "rating": {
+      "rate": 7.8,
+      "count": 1
+    }
+  },
+  {
+    "id": 2,
+    "title": "Zoom Freak 3",
+    "price": 100.00,
+    "description": "Giannis is an athlete of freakish power and incredible range. His ability to play any position make him difficult to guard and nearly impossible to stop.",
+    "category": "Basketball Shoes",
+    "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ff7e32ec-e74d-4a24-9e22-8f2883770837/zoom-freak-3-basketball-shoes-8rbspb.png",
+    "rating": {
+      "rate": 6.7,
+      "count": 25
+    }
+  },
+  {
+    "id": 3,
+    "title": "Nike Air Zoom Tempo NEXT% FlyEase",
+    "price": 200.00,
+    "description": "The ultra-responsive Nike Air Zoom Tempo NEXT% FlyEase is designed to help you get the most from your training runs, so you can go confidently into your next (or first) race.",
+    "category": "Running shoes",
+    "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/80e71bbd-ec1e-4169-a13e-09ee4cab4f18/air-zoom-tempo-next-flyease-mens-easy-on-off-road-running-shoes-jrvsrL.png",
+    "rating": {
+      "rat": 5.5,
+      "count": 25
+    }
+  },
+  {
+    "id": 4,
+    "title": "Nike Air Force 1 '07",
+    "price": 114.00,
+    "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+    "category": "Casual shoes",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-mens-shoes-5QFp5Z.png",
+    "rating": {
+      "rate": 8.8,
+      "count": 100
+    }
+  },
+  {
+    "title": "Jordan Retro 5",
+    "price": 200.00,
+    "description": "The Air Jordan 5 Retro for women gives a colourful makeover to one of MJ's most memorable game shoes.",
+    "category": "Womens Jordans",
+    "image": "https://images.footlocker.com/is/image/EBFL2/D9336400?wid=400&hei=400&fmt=png-alpha",
+    "rating": {
+      "rate": 9.8,
+      "count": 100
+    }
+  }
+]
